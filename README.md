@@ -6,7 +6,7 @@ Aplicação mobile desenvolvida em **Flutter** que exibe a tabela de classifica�
 
 ## Prints da Aplicação
 
-![Imagem login](prints\login.jpeg) | ![Imagem home page](prints\home.jpeg) | ![Imagem classificação](prints\classificacao.jpeg)
+![Imagem login](football_league/prints/login.jpeg) | ![Imagem home page](football_league/prints/home.jpeg) | ![Imagem classificação](football_league/prints/classificacao.jpeg)
 
 ---
 
