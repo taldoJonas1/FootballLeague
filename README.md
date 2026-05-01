@@ -6,9 +6,9 @@ Aplicação mobile desenvolvida em **Flutter** que exibe a tabela de classifica�
 
 ## Prints da Aplicação
 
-(prints\login.jpeg)
-(prints\home.jpeg)
-(prints\classificacao.jpeg)
+[!imagem login](prints\login.jpeg)
+[!imagem home](prints\home.jpeg)
+[!imagem classificação](prints\classificacao.jpeg)
 
 ---
 
